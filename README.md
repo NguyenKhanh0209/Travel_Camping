@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+<a href="https://deepwiki.com/NguyenKhanh0209/Travel_Camping"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
